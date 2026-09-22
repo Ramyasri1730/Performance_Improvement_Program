@@ -64,7 +64,7 @@ This structure is deliberately simple because the target partner population earn
 
 The proposed model therefore remains below the required CPT ceiling across all four months.
 
-![Monthly CPT](images/monthly_cpt_vs_target.png)
+![Monthly CPT vs Target](Performance_Improvement_Program/images/monthly_cpt_vs_target.png)
 
 ## Part 2 – Partner Quality Model
 
@@ -91,7 +91,7 @@ Each metric contributes its full weight when the partner meets the threshold and
 
 Partners entering the retraining bucket receive root-cause analysis and targeted refresher training. Repeated underperformance triggers progressively stronger interventions.
 
-![Quality Buckets](images/partner_quality_buckets.png)
+![Partner Quality Buckets](Performance_Improvement_Program/images/partner_quality_buckets.png)
 
 ## Retraining Escalation
 
